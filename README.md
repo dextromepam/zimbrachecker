@@ -1,0 +1,2 @@
+# zimbrachecker
+Check zimbra logins
